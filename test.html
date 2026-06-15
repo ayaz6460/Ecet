@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Google Maps Demo</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://maps.googleapis.com">
+<link rel="preconnect" href="https://maps.gstatic.com" crossorigin>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    height:100vh;
+    overflow:hidden;
+}
+
+#map{
+    width:100%;
+    height:100vh;
+}
+
+.loading{
+    position:absolute;
+    inset:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:linear-gradient(135deg, #f6f8fc, #e9eef7);
+    color:#334155;
+    font-size:16px;
+    font-weight:600;
+    z-index:500;
+}
+
+.info{
+    position:absolute;
+    top:15px;
+    left:15px;
+    z-index:1000;
+    background:white;
+    padding:12px 16px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+button{
+    padding:8px 14px;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+button:hover{
+    opacity:0.9;
+}
+</style>
+</head>
+
+<body>
+
+<div class="info">
+    <h3>Google Maps Demo</h3>
+    <br>
+    <button onclick="goToCurrentLocation()">
+        My Location
+    </button>
+</div>
+
+<div class="loading" id="loading">Loading map...</div>
+
+<div id="map"></div>
+
+<script>
+let map;
+let marker;
+let AdvancedMarkerElement;
+const MAP_ID = "";
+
+class OverlayMarker {
+    constructor({ position, map, title }) {
+        this.position = position;
+        this.title = title || "";
+        this.div = null;
+        this.setMap(map);
+    }
+
+    setMap(mapInstance) {
+        this.map = mapInstance;
+
+        if (mapInstance) {
+            this.overlay = new google.maps.OverlayView();
+            this.overlay.onAdd = () => {
+                const div = document.createElement("div");
+                div.style.position = "absolute";
+                div.style.transform = "translate(-50%, -100%)";
+                div.style.cursor = "pointer";
+                div.title = this.title;
+                div.innerHTML = `
+                    <div style="width:18px;height:18px;border-radius:50% 50% 50% 0;background:#2563eb;transform:rotate(-45deg);box-shadow:0 2px 6px rgba(0,0,0,0.35);position:relative;"></div>
+                    <div style="width:8px;height:8px;border-radius:50%;background:#fff;position:absolute;top:5px;left:5px;"></div>
+                `;
+                this.div = div;
+                this.overlay.getPanes().overlayMouseTarget.appendChild(div);
+            };
+            this.overlay.draw = () => {
+                if (!this.div) {
+                    return;
+                }
+
+                const projection = this.overlay.getProjection();
+                const point = projection.fromLatLngToDivPixel(this.position);
+                this.div.style.left = `${point.x}px`;
+                this.div.style.top = `${point.y}px`;
+            };
+            this.overlay.onRemove = () => {
+                if (this.div && this.div.parentNode) {
+                    this.div.parentNode.removeChild(this.div);
+                }
+                this.div = null;
+            };
+            this.overlay.setMap(mapInstance);
+        } else if (this.overlay) {
+            this.overlay.setMap(null);
+            this.overlay = null;
+        }
+    }
+}
+
+function createMarker(options) {
+    if (MAP_ID && AdvancedMarkerElement) {
+        return new AdvancedMarkerElement(options);
+    }
+
+    return new OverlayMarker(options);
+}
+
+function clearMarker() {
+    if (!marker) {
+        return;
+    }
+
+    marker.setMap(null);
+}
+
+async function initMap() {
+    if (MAP_ID) {
+        ({ AdvancedMarkerElement } = await google.maps.importLibrary("marker"));
+    }
+
+    const defaultLocation = {
+        lat: 17.3850,
+        lng: 78.4867
+    };
+
+    const mapOptions = {
+        center: defaultLocation,
+        zoom: 12,
+        mapTypeControl: true,
+        streetViewControl: true,
+        fullscreenControl: true
+    };
+
+    if (MAP_ID) {
+        mapOptions.mapId = MAP_ID;
+    }
+
+    map = new google.maps.Map(
+        document.getElementById("map"),
+        mapOptions
+    );
+
+    marker = createMarker({
+        position: defaultLocation,
+        map: map,
+        title: "Default Location"
+    });
+
+    map.addListener("click", (event) => {
+
+        clearMarker();
+
+        marker = createMarker({
+            position: event.latLng,
+            map: map
+        });
+
+        console.log(
+            "Latitude:",
+            event.latLng.lat(),
+            "Longitude:",
+            event.latLng.lng()
+        );
+    });
+
+    document.getElementById("loading").style.display = "none";
+}
+
+function goToCurrentLocation() {
+
+    if (!navigator.geolocation) {
+        alert("Geolocation not supported");
+        return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+        (position) => {
+
+            const pos = {
+                lat: position.coords.latitude,
+                lng: position.coords.longitude
+            };
+
+            map.setCenter(pos);
+            map.setZoom(15);
+
+            clearMarker();
+
+            marker = createMarker({
+                position: pos,
+                map: map,
+                title: "You are here"
+            });
+
+        },
+        () => {
+            alert("Unable to get your location");
+        }
+    );
+}
+</script>
+
+<script async
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&callback=initMap&loading=async&v=weekly">
+</script>
+
+</body>
+</html>
