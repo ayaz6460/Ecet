@@ -16,7 +16,7 @@
   "AIZA": {
     "name": "AIZZA COLLEGE OF ENGG AND TECHNOLOGY, MANCHERIAL",
     "address": "AIZZA COLLEGE OF Engineering AND Technology, MANCHERIAL, Mancherial, Telangana, India",
-    "rating": 4.1,
+    "rating": 3.4,
     "lat": 18.97509583443361,
     "lng": 79.52904254379497
   },
@@ -30,7 +30,7 @@
   "BOSE": {
     "name": "ANU BOSE INSTT OF TECHNOLOGY FOR WOMENS, PALONCHA",
     "address": "ANU BOSE INSTT OF Technology FOR WOMENS, PALONCHA, Paloncha Power Plant, Palvancha mandal, Bhadradri Kothagudem, Telangana, India",
-    "rating": 4.5,
+    "rating": 3,
     "lat": 17.584159582864572,
     "lng": 80.67036016554844
   },
@@ -44,21 +44,21 @@
   "CVSR": {
     "name": "ANURAG UNIVERSITY (FORMERLY ANURAG GRP OF INSTNS- CVSR COLL OF ENGG), GHATKESAR",
     "address": "ANURAG UNIVERSITY (FORMERLY ANURAG Group OF Institutions- CVSR College OF Engineering), GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.6,
+    "rating": 3.8,
     "lat": 17.457054424916443,
     "lng": 78.68702379061216
   },
   "ARJN": {
     "name": "ARJUN COLLEGE OF TECHNOLOGY AND SCIENCE AUTONOMOUS, BATASINGARAM",
     "address": "ARJUN COLLEGE OF Technology AND SCIENCE , BATASINGARAM, Batasingaram, Abdullapurmet mandal, Ranga Reddy, Telangana, 501512, India",
-    "rating": 4.7,
+    "rating": 3.4,
     "lat": 17.30125591219251,
     "lng": 78.73568380554215
   },
   "AURG": {
     "name": "AURORAS SCIENTIFIC AND TECHNOLOGICAL INSTITUTE, GHATKESAR",
     "address": "AURORAS SCIENTIFIC AND TECHNOLOGICAL INSTITUTE, GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.1,
+    "rating": 4,
     "lat": 17.451901454543915,
     "lng": 78.68724573188905
   },
@@ -72,21 +72,21 @@
   "ASRA": {
     "name": "AVANTHIS SCIENTIFIC TECH AND RESEARCH ACADEMY, HAYATHNAGAR",
     "address": "AVANTHIS SCIENTIFIC TECH AND RESEARCH ACADEMY, HAYATHNAGAR, Hayathnagar mandal, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Ranga Reddy, Telangana, India",
-    "rating": 4.3,
+    "rating": 3.9,
     "lat": 17.32601070680391,
     "lng": 78.61368290730202
   },
   "AVNI": {
     "name": "AVN INST OF ENGG TECHNOLOGY (AUTONOMOUS), IBRAHIMPATNAM",
     "address": "AVN Institute OF Engineering Technology , IBRAHIMPATNAM, Ibrahimpatnam, Ibrahimpatnam mandal, Ranga Reddy, Telangana, 501506, India",
-    "rating": 4,
+    "rating": 3.7,
     "lat": 17.203823599667093,
     "lng": 78.64658263567188
   },
   "AZAD": {
     "name": "AZAD COLLEGE OF ENGINEERING AND TECHNOLOGY, MOINABAD",
     "address": "AZAD COLLEGE OF ENGINEERING AND Technology, MOINABAD, Moinabad, Moinabad mandal, Ranga Reddy, Telangana, 501504, India",
-    "rating": 4.6,
+    "rating": 3.8,
     "lat": 17.336515372561518,
     "lng": 78.26774427192056
   },
@@ -100,28 +100,28 @@
   "BITN": {
     "name": "BALAJI INSTITUTE OF TECHNOLOGY AND SCI (AUTONOMOUS), NARSAMPET",
     "address": "BALAJI INSTITUTE OF Technology AND Science , NARSAMPET, Narsampet mandal, Warangal, Telangana, 506132, India",
-    "rating": 3.9,
+    "rating": 4,
     "lat": 17.928981475142876,
     "lng": 79.90260688279457
   },
   "BIET": {
     "name": "BHARAT INSTITUTE OF ENGG AND TECHNOLOGY, IBRAHIMPATNAM",
     "address": "Bharat Institute of Engineering and Technology, Patelguda Road, Ibrahimpatnam, Ibrahimpatnam mandal, Ranga Reddy, Telangana, 501510, India",
-    "rating": 4,
+    "rating": 3.9,
     "lat": 17.2056735,
     "lng": 78.6019235
   },
   "BSKR": {
     "name": "BHASKAR ENGINEERING COLLEGE, YENKAPALLY",
     "address": "BHASKAR ENGINEERING COLLEGE, YENKAPALLY, Yenkapally, Pune - Machilipatnam Highway, Sadasivpet, Sadasivpet mandal, Sangareddy, Telangana, 502291, India",
-    "rating": 4.4,
+    "rating": 2.7,
     "lat": 17.64024669319911,
     "lng": 77.93984136712778
   },
   "BPCP": {
     "name": "BHASKAR PHARMACY COLLEGE, YENKAPALLY",
     "address": "BHASKAR PHARMACY COLLEGE, YENKAPALLY, Yenkapally, Pune - Machilipatnam Highway, Sadasivpet, Sadasivpet mandal, Sangareddy, Telangana, 502291, India",
-    "rating": 4.1,
+    "rating": 2.7,
     "lat": 17.637149002580152,
     "lng": 77.93861478290702
   },
@@ -142,7 +142,7 @@
   "BOMA": {
     "name": "BOMMA INST OF TECHNOLOGY AND SCI, KHAMMAM",
     "address": "Bomma Institute of Technology and Science, Khammam - Devarapalli Expressway, Obulrao Banjar, Allipuram, Kalluru mandal, Khammam, Telangana, 507318, India",
-    "rating": 4.5,
+    "rating": 4,
     "lat": 17.2080413,
     "lng": 80.2022423
   },
@@ -163,7 +163,7 @@
   "BVRW": {
     "name": "BVRIT COLLEGE OF ENGINEERING FOR WOMEN (AUTONOMOUS), BACHUPALLY",
     "address": "BVRIT COLLEGE OF ENGINEERING FOR WOMEN , BACHUPALLY, Bachupally mandal, Medchal–Malkajgiri, Telangana, 500090, India",
-    "rating": 3.9,
+    "rating": 4.2,
     "lat": 17.532774478858624,
     "lng": 78.37133642990725
   },
@@ -177,21 +177,21 @@
   "CBIT": {
     "name": "CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY, GANDIPET",
     "address": "CHAITANYA BHARATHI INSTITUTE OF Technology, GANDIPET, Osman Sagar, Khanapur, Gandipet mandal, Ranga Reddy, Telangana, India",
-    "rating": 3.8,
+    "rating": 4.1,
     "lat": 17.36783288861076,
     "lng": 78.3011803800275
   },
   "CJIT": {
     "name": "CHRISTU JYOTHI INSTITUTE OF TECHNOLOGY AND SCI, JANGAON",
     "address": "CHRISTU JYOTHI INSTITUTE OF Technology AND Science, JANGAON, Jangaon, Telangana, India",
-    "rating": 4.6,
+    "rating": 3.9,
     "lat": 17.754300529782412,
     "lng": 79.24014312481276
   },
   "CMRN": {
     "name": "CMR ENGG COLLEGE (AUTONOMOUS), KANDLAKOYA",
     "address": "CMR College of Engineering & Technology, Outer Ring Road, Medchal mandal, Medchal–Malkajgiri, Telangana, 501401, India",
-    "rating": 4.2,
+    "rating": 4.1,
     "lat": 17.6045852,
     "lng": 78.486298
   },
@@ -205,7 +205,7 @@
   "CMRG": {
     "name": "CMR TECHNICAL CAMPUS (AUTONOMOUS), KANDLAKOYA",
     "address": "CMR Technical Campus Auditorium, ORR Service Road, Medchal mandal, Medchal–Malkajgiri, Telangana, 501401, India",
-    "rating": 4.5,
+    "rating": 4.1,
     "lat": 17.5958946,
     "lng": 78.4874236
   },
@@ -233,14 +233,14 @@
   "DARE": {
     "name": "DARIPALLY ANANTHA RAMULU COLLOF ENGGAND TECH, KHAMMAM",
     "address": "DARIPALLY ANANTHA RAMULU COLLOF ENGGAND TECH, KHAMMAM, Khammam, Khammam Urban mandal, Khammam, Telangana, 507003, India",
-    "rating": 4.2,
+    "rating": 3.9,
     "lat": 17.250021618413292,
     "lng": 80.15219575181192
   },
   "DCET": {
     "name": "DECCAN COLLEGE OF ENGINEERING AND TECHNOLOGY, DARUSSALAM",
     "address": "Deccan college of engineering and technology, Goshamahal Road, Dar Us Salaam, Abids, Ward 77 Jambagh, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Nampally mandal, Hyderabad, Telangana, 500012, India",
-    "rating": 4.6,
+    "rating": 3.8,
     "lat": 17.3844415,
     "lng": 78.4659197
   },
@@ -254,7 +254,7 @@
   "VRKW": {
     "name": "DR VRK WOMENS COLL OF ENGG AND TECHNOLOGY, MOINABAD",
     "address": "DR VRK WOMENS College OF Engineering AND Technology, MOINABAD, Moinabad, Moinabad mandal, Ranga Reddy, Telangana, 501504, India",
-    "rating": 3.8,
+    "rating": null,
     "lat": 17.32566875858334,
     "lng": 78.2703954725657
   },
@@ -303,7 +303,7 @@
   "GLOB": {
     "name": "GLOBAL INST OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), CHILKUR",
     "address": "GLOBAL Institute OF ENGINEERING AND Technology , CHILKUR, Chilkur, Moinabad mandal, Ranga Reddy, Telangana, 501504, India",
-    "rating": 4,
+    "rating": 3.5,
     "lat": 17.356470702296072,
     "lng": 78.2891177187731
   },
@@ -317,14 +317,14 @@
   "GRCP": {
     "name": "GOKARAJU RANGARAJU COLLEGE OF PHARMACY, BACHUPALLI",
     "address": "Gokaraju Rangaraju College of Pharmacy, GRIET College Rd, Nizampet, Bachupally mandal, Hyderabad, Serilingampalle mandal, Medchal–Malkajgiri, Telangana, 500090, India",
-    "rating": 3.8,
+    "rating": 4,
     "lat": 17.5205239,
     "lng": 78.3688446
   },
   "GRRR": {
     "name": "GOKARAJU RANGARAJU INSTITUTE OF ENGG AND TECH (AUTONOMOUS), BACHUPALLY",
     "address": "GOKARAJU RANGARAJU INSTITUTE OF Engineering AND TECH , BACHUPALLY, Bachupally mandal, Medchal–Malkajgiri, Telangana, 500090, India",
-    "rating": 4.5,
+    "rating": 4,
     "lat": 17.55049480233113,
     "lng": 78.35678790570421
   },
@@ -338,7 +338,7 @@
   "GURU": {
     "name": "GURU NANAK INSTITUTIONS TECHNICAL CAMPUS (AUTONOMOUS), IBRAHIMPATAN",
     "address": "GURU NANAK INSTITUTIONS TECHNICAL CAMPUS , IBRAHIMPATAN, Telangana, India",
-    "rating": 4.1,
+    "rating": 4,
     "lat": 17.45672838915363,
     "lng": 78.54315650406888
   },
@@ -352,7 +352,7 @@
   "HOLY": {
     "name": "HOLY MARY INSTITUTE OF TECH SCIENCE (AUTONOMOUS), KEESARA",
     "address": "HOLY MARY INSTITUTE OF TECH SCIENCE , KEESARA, Telangana, India",
-    "rating": 4.4,
+    "rating": 3.6,
     "lat": 17.317010549538338,
     "lng": 78.49115491614138
   },
@@ -366,21 +366,21 @@
   "IITT": {
     "name": "INDUR INSTITUTE OF ENGINEERING AND TECHNOLOGY, SIDDIPET",
     "address": "INDUR INSTITUTE OF ENGINEERING AND Technology, SIDDIPET, Telangana, India",
-    "rating": 4.2,
+    "rating": 3.9,
     "lat": 17.336188669080318,
     "lng": 78.46005369761762
   },
   "IARE": {
     "name": "INSTITUTE OF AERONAUTICAL ENGINEERING, DUNDIGAL",
     "address": "Institute of Aeronautical Engineering, MLRITM Road, Dundigal, Dundigal mandal, Medchal–Malkajgiri, Telangana, 500043, India",
-    "rating": 4.7,
+    "rating": 4.1,
     "lat": 17.5998832,
     "lng": 78.4177016
   },
   "ISLC": {
     "name": "ISL ENGINEERING COLLEGE (AUTONOMOUS), BANDLAGUDA",
     "address": "ISL Engineering College, Airport Road, Laxmi Guda, Katedan, Ward 59 Mailardevpally, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Ranga Reddy, Telangana, 500005, India",
-    "rating": 4.7,
+    "rating": 4,
     "lat": 17.3053491,
     "lng": 78.4569384
   },
@@ -394,7 +394,7 @@
   "JPNE": {
     "name": "JAYA PRAKASH NARAYAN COLLEGE OF ENGINEERING (AUTONOMOUS), MAHABUBNAGAR",
     "address": "JAYA PRAKASH NARAYAN COLLEGE OF ENGINEERING , MAHABUBNAGAR, Mahabubnagar, Telangana, India",
-    "rating": 3.9,
+    "rating": 3.8,
     "lat": 16.690143224057636,
     "lng": 77.95408205754437
   },
@@ -408,7 +408,7 @@
   "JNTM": {
     "name": "JNTUH UNIVERSITY COLLEGE OF ENGG MANTHANI, MANTHANI",
     "address": "JNTUH UNIVERSITY COLLEGE OF Engineering MANTHANI, MANTHANI, Manthani, Manthani mandal, Peddapalli, Telangana, 505184, India",
-    "rating": 4.1,
+    "rating": 3.6,
     "lat": 18.658862654043322,
     "lng": 79.66740365895502
   },
@@ -422,21 +422,21 @@
   "JNKR": {
     "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING JAGITIAL (AUTONOMOUS), JAGITIAL",
     "address": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING JAGITIAL , JAGITIAL, Sri Sai Nursing Home - Jagitial, JambiGadde, Jagtial, Jagtial mandal, Karimnagar, Telangana, 505327, India",
-    "rating": 4.7,
+    "rating": 4,
     "lat": 18.788632017234498,
     "lng": 78.93104530510836
   },
   "JNMB": {
     "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING MAHABUBABAD, MAHABUBABAD",
     "address": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING MAHABUBABAD, MAHABUBABAD, Mahabubabad, Telangana, India",
-    "rating": 4.3,
+    "rating": 4,
     "lat": 17.719558939317285,
     "lng": 80.03852605296403
   },
   "JNPL": {
     "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING PALAIR, PALAIR",
     "address": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING PALAIR, PALAIR, Jawahar Navodaya Vidyalaya, Palair, Suryapet - Khammam Expressway, Valia Thanda, Paleru, Kusumanchi mandal, Khammam, Telangana, 507157, India",
-    "rating": 4.6,
+    "rating": 4,
     "lat": 17.21801459791472,
     "lng": 79.92956756430216
   },
@@ -450,7 +450,7 @@
   "JNTS": {
     "name": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR, SULTANPUR",
     "address": "JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR, SULTANPUR, Sultanpur, Eligaid mandal, Peddapalli, Telangana, 505525, India",
-    "rating": 4.7,
+    "rating": 3.9,
     "lat": 18.536449705149163,
     "lng": 79.23299884540565
   },
@@ -464,21 +464,21 @@
   "JNTP": {
     "name": "JNTUH UNIVERSITY COLLEGE OF PHARMACEUTICAL SCIENCES SULTANPUR, SULTANPUR",
     "address": "JNTUH UNIVERSITY COLLEGE OF PHARMACEUTICAL SCIENCES SULTANPUR, SULTANPUR, Sultanpur, Eligaid mandal, Peddapalli, Telangana, 505525, India",
-    "rating": 4.4,
+    "rating": 3.9,
     "lat": 18.529562942848184,
     "lng": 79.23610560829283
   },
   "JOGI": {
     "name": "JOGINPALLY B R ENGINEERING COLLEGE (AUTONOMOUS), YENKAPALLY",
     "address": "JOGINPALLY B R ENGINEERING COLLEGE , YENKAPALLY, Yenkapally, Pune - Machilipatnam Highway, Sadasivpet, Sadasivpet mandal, Sangareddy, Telangana, 502291, India",
-    "rating": 4.5,
+    "rating": 3.8,
     "lat": 17.634096386162728,
     "lng": 77.94248429941653
   },
   "JMTS": {
     "name": "JYOTHISHMATHI INSTITUTE OF TECHNOLOGY AND SCI (AUTONOMOUS), KARIMNAGAR",
     "address": "Jyothishmathi Institute of Technology and Science, SH1, Thimmapur, Thimmapur mandal, Karimnagar, Telangana, 505481, India",
-    "rating": 4.6,
+    "rating": 3.7,
     "lat": 18.3500004,
     "lng": 79.1604444
   },
@@ -506,21 +506,21 @@
   "KITW": {
     "name": "KAKATIYA INST OF TECHNOLOGY SCI FOR WOMEN, NIZAMABAD",
     "address": "KAKATIYA Institute OF Technology Science FOR WOMEN, NIZAMABAD, Nizamabad, Nizamabad South mandal, Nizamabad, Telangana, 503001, India",
-    "rating": 4.7,
+    "rating": 4.1,
     "lat": 18.673668789901875,
     "lng": 78.1065525045912
   },
   "KITS": {
     "name": "KAKATIYA INSTITUTE OF TECHNOLOGY AND SCI, WARANGAL",
     "address": "KAKATIYA INSTITUTE OF Technology AND Science, WARANGAL, Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
-    "rating": 4.3,
+    "rating": 3.5,
     "lat": 17.99198057343599,
     "lng": 79.59083382774887
   },
   "KTKM": {
     "name": "KAMALA INSTITUTE OF TECHNOLOGY AND SCIENCE (AUTONOMOUS), HUZURABAD",
     "address": "KAMALA INSTITUTE OF Technology AND SCIENCE , HUZURABAD, Huzurabad, Huzurabad mandal, Karimnagar, Telangana, 505498, India",
-    "rating": 3.9,
+    "rating": 3.8,
     "lat": 18.20584146224152,
     "lng": 79.39112558551189
   },
@@ -534,28 +534,28 @@
   "KMCE": {
     "name": "KESHAV MEMORIAL COLLEGE OF ENGINEERING, IBRAHIMPATAN",
     "address": "KESHAV MEMORIAL COLLEGE OF ENGINEERING, IBRAHIMPATAN, Telangana, India",
-    "rating": 4.6,
+    "rating": 4.2,
     "lat": 17.32863760502236,
     "lng": 78.53374075977123
   },
   "KMEC": {
     "name": "KESHAV MEMORIAL ENGINEERING COLLEGE, KACHWANISINGARAM",
     "address": "KESHAV MEMORIAL ENGINEERING COLLEGE, KACHWANISINGARAM, Telangana, India",
-    "rating": 4.6,
+    "rating": 4.2,
     "lat": 17.356917443693128,
     "lng": 78.53350675228971
   },
   "KMIT": {
     "name": "KESHAV MEMORIAL INST OF TECHNOLOGY, NARAYANAGUDA",
     "address": "KESHAV MEMORIAL Institute OF Technology, NARAYANAGUDA, Narayanaguda, Narayanguda Main Road, Lingampally, Narayanguda, Ward 79 Himayath Nagar, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Himayatnagar mandal, Hyderabad, Telangana, 500027, India",
-    "rating": 4.7,
+    "rating": 4.2,
     "lat": 17.40398069771387,
     "lng": 78.49654397944215
   },
   "KGRH": {
     "name": "KG REDDY COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), MOINABAD",
     "address": "KG REDDY COLLEGE OF Engineering AND Technology , MOINABAD, Moinabad, Moinabad mandal, Ranga Reddy, Telangana, 501504, India",
-    "rating": 3.8,
+    "rating": 4,
     "lat": 17.33588570057216,
     "lng": 78.27918102624086
   },
@@ -569,42 +569,42 @@
   "KDDW": {
     "name": "KODADA INST OF TECHNOLOGY AND SCIENCE FOR WOMEN, KODADA",
     "address": "KODADA Institute OF Technology AND SCIENCE FOR WOMEN, KODADA, Kodada, Kodad mandal, Suryapet, Telangana, 508206, India",
-    "rating": 4.6,
+    "rating": 4,
     "lat": 16.993265418718156,
     "lng": 79.96878572485221
   },
   "KPRT": {
     "name": "KOMMURI PRATAP REDDY INST OF TECHNOLOGY (AUTONOMOUS), GHATKESAR",
     "address": "Kommuri Pratap Reddy Institute of Technology, kprit way, Bokkoni Guda, Ghanpur, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, 501301, India",
-    "rating": 3.9,
+    "rating": 3.6,
     "lat": 17.4321162,
     "lng": 78.6856584
   },
   "KPRC": {
     "name": "KPRIT COLLEGE OF ENGINEERING (AUTONOMOUS), GHATKESAR",
     "address": "KPRIT COLLEGE OF ENGINEERING , GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.2,
+    "rating": 3.8,
     "lat": 17.45352900383027,
     "lng": 78.68312568745198
   },
   "KCEA": {
     "name": "KSHATRIYA COLLEGE OF ENGINEERING, ARMOOR",
     "address": "KSHATRIYA COLLEGE OF ENGINEERING, ARMOOR, Armoor, Armoor mandal, Nizamabad, Telangana, 503200, India",
-    "rating": 4.4,
+    "rating": 3.7,
     "lat": 18.780682024078544,
     "lng": 78.29034158899753
   },
   "KUWL": {
     "name": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY, WARANGAL",
     "address": "KU College of Engineering and Technology, KU College of Engineering & Technology Entrance Road, Naim Nagar, Hanamkonda, Hanamkonda mandal, Hanumakonda, Telangana, 506009, India",
-    "rating": 4.1,
+    "rating": 3.8,
     "lat": 18.034279,
     "lng": 79.5613775
   },
   "LRDS": {
     "name": "LORDS INSTITUTE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), HIMAYATSAGAR",
     "address": "LORDS INSTITUTE OF ENGINEERING AND Technology , HIMAYATSAGAR, Andhra Pradesh Engineering Research Centre, Himayatsagar, Outer Ring Road, Moinabad mandal, Ranga Reddy, Telangana, 500030, India",
-    "rating": 4.7,
+    "rating": 3.9,
     "lat": 17.33424112052819,
     "lng": 78.38013155663133
   },
@@ -632,63 +632,63 @@
   "MDRK": {
     "name": "MADHIRA INSTITUTE OF TECHNOLOGY AND SCI, KODAD",
     "address": "MADHIRA INSTITUTE OF Technology AND Science, KODAD, Kodada, Kodad mandal, Suryapet, Telangana, 508206, India",
-    "rating": 4,
+    "rating": 3.3,
     "lat": 16.99982449227633,
     "lng": 79.97230365398401
   },
   "MGIT": {
     "name": "MAHATMA GANDHI INSTITUTE OF TECHNOLOGY (AUTONOMOUS), GANDIPET",
     "address": "Mahatma Gandhi Institute of Technology, Treasure Island Gokarting Track, Gandipet, Hyderabad, Gandipet mandal, Ranga Reddy, Telangana, 500075, India",
-    "rating": 4.3,
+    "rating": 4,
     "lat": 17.3907234,
     "lng": 78.3223899
   },
   "MHVR": {
     "name": "MAHAVEER INSTITUTE OF SCI AND TECHNOLOGY (AUTONOMOUS), BANDLAGUDA",
     "address": "Mahaveer Institute of Science and Technology, Airport Road, Laxmi Guda, Katedan, Ward 59 Mailardevpally, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Ranga Reddy, Telangana, 500077, India",
-    "rating": 4.5,
+    "rating": 3.7,
     "lat": 17.3078326,
     "lng": 78.4554633
   },
   "MLRD": {
     "name": "MALLA REDDY COLLEGE OF ENGG TECHNOLOGY (AUTONOMOUS), MYSAMMAGUDA",
     "address": "MALLA REDDY COLLEGE OF Engineering Technology , MYSAMMAGUDA, Telangana, India",
-    "rating": 4.1,
+    "rating": 4.5,
     "lat": 17.348009796150382,
     "lng": 78.53155463178017
   },
   "MRCE": {
     "name": "MALLA REDDY COLLEGE OF ENGINEERING, MYSAMMAGUDA",
     "address": "MALLA REDDY COLLEGE OF ENGINEERING, MYSAMMAGUDA, Telangana, India",
-    "rating": 4.3,
+    "rating": 4.5,
     "lat": 17.31492374032306,
     "lng": 78.42002746849819
   },
   "MRCW": {
     "name": "MALLA REDDY ENGG COLLEGE FOR WOMEN (AUTONOMOUS), MAISAMMAGUDA",
     "address": "MALLA REDDY Engineering COLLEGE FOR WOMEN , MAISAMMAGUDA, maisammaguda, Pochamma Temple Road, Medchal mandal, Medchal–Malkajgiri, Telangana, 500043, India",
-    "rating": 4.1,
+    "rating": 4.5,
     "lat": 17.554195812289876,
     "lng": 78.4440086639378
   },
   "MREM": {
     "name": "MALLA REDDY ENGINEERING COLLEGE AND MANAGEMENT SCIENCES AUTONOMOUS, MEDCHAL",
     "address": "MALLA REDDY ENGINEERING COLLEGE AND MANAGEMENT SCIENCES , MEDCHAL, Medchal, Medchal mandal, Medchal–Malkajgiri, Telangana, 501400, India",
-    "rating": 4.3,
+    "rating": 3.5,
     "lat": 17.639430471698958,
     "lng": 78.48860682689757
   },
   "MLRS": {
     "name": "MARRI LAXMAN REDDY INST OF TECHNOLOGY AND MANAGEMENT (AUTONOMOUS), DUNDIGAL",
     "address": "marri laxman reddy institute of technology and management, MLRITM Road, Dundigal, Dundigal mandal, Medchal–Malkajgiri, Telangana, 500043, India",
-    "rating": 4.6,
+    "rating": 3.8,
     "lat": 17.598948,
     "lng": 78.4173051
   },
   "MECS": {
     "name": "MATRUSRI ENGINEERING COLLEGE ( AUTONOMOUS), HYDERABAD",
     "address": "MATRUSRI ENGINEERING COLLEGE , HYDERABAD, Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",
-    "rating": 4.4,
+    "rating": 3.7,
     "lat": 17.36738592183072,
     "lng": 78.48044869273137
   },
@@ -702,7 +702,7 @@
   "MGHA": {
     "name": "MEGHA INST OF ENGG AND TECHNOLOGY FOR WOMEN (AUTONOMOUS), GHATKESAR",
     "address": "Megha Institute Of Engineering And Technology For Women, Gurram Bala Narasaiah College Road, Ghanpur, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.3,
+    "rating": 3.8,
     "lat": 17.4257614,
     "lng": 78.7128629
   },
@@ -716,14 +716,14 @@
   "METH": {
     "name": "METHODIST COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), ABIDS",
     "address": "Methodist College Of Engineering And Technology, King koti road, Gun Foundry, Ward 78 Gunfoundry, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Nampally mandal, Hyderabad, Telangana, 500001, India",
-    "rating": 4,
+    "rating": 3.5,
     "lat": 17.3920342,
     "lng": 78.4773173
   },
   "MGUNSF": {
     "name": "MGU COLLEGE OF ENGINEERING AND TECHNOLOGY , NALGONDA",
     "address": "MGU COLLEGE OF ENGINEERING AND Technology , NALGONDA, Nalgonda, Nalgonda mandal, Nalgonda, Telangana, 508001, India",
-    "rating": 4.2,
+    "rating": 3.9,
     "lat": 17.053119193276974,
     "lng": 79.27380134964069
   },
@@ -737,7 +737,7 @@
   "MNRT": {
     "name": "MNRCOLLEGE OF ENGINEERING AND TECHNOLOGY, SANGAREDDY",
     "address": "MNRCOLLEGE OF ENGINEERING AND Technology, SANGAREDDY, Sangareddy, Telangana, India",
-    "rating": 3.9,
+    "rating": 3.5,
     "lat": 17.859773795686795,
     "lng": 77.83267699763827
   },
@@ -758,7 +758,7 @@
   "MOTK": {
     "name": "MOTHER TERESA INSTITUTE OF SCI AND TECHNOLOGY (AUTONOMOUS), SATHUPALLY",
     "address": "MOTHER TERESA INSTITUTE OF Science AND Technology , SATHUPALLY, Sathupally, Sathupally mandal, Khammam, Telangana, India",
-    "rating": 4.3,
+    "rating": 4,
     "lat": 17.205495230244665,
     "lng": 80.82795574644756
   },
@@ -800,21 +800,21 @@
   "NAWB": {
     "name": "NAWAB SHAH ALAM KHAN COLL OF ENGG AND TECH (AUTONOMOUS), NEW MALAKPET",
     "address": "NAWAB SHAH ALAM KHAN College OF Engineering AND TECH , NEW MALAKPET, IDARA MADINATUL ULOOM, 9G98+H9 New Malakpet, Hyderabad, Telangana, Service Road, Madhurapuri, Moosarambagh, Ward 24 Saidabad, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Saroornagar mandal, Ranga Reddy, Telangana, 500036, India",
-    "rating": 4.4,
+    "rating": 3.4,
     "lat": 17.36864451599175,
     "lng": 78.52013793448326
   },
   "NGIT": {
     "name": "NEIL GOGTE INST OF TECHNOLOGY, KACHIVANI SINGARAM",
     "address": "NEIL GOGTE Institute OF Technology, KACHIVANI SINGARAM, Kachivani Singaram - II, Peerzadiguda Main Road, Ghatkesar mandal, Medipally mandal, Medchal–Malkajgiri, Telangana, 500098, India",
-    "rating": 4.4,
+    "rating": 3.9,
     "lat": 17.37808460677299,
     "lng": 78.63396110820679
   },
   "NIET": {
     "name": "NETAJI INSTITUTE OF ENGINEERING AND TECHNOLOGY, CHOUTUPPAL",
     "address": "NETAJI INSTITUTE OF ENGINEERING AND Technology, CHOUTUPPAL, Choutuppal, Choutuppal mandal, Yadadri Bhuvanagiri, Telangana, 508252, India",
-    "rating": 4.2,
+    "rating": 3.1,
     "lat": 17.25624806797613,
     "lng": 78.90511674213619
   },
@@ -849,21 +849,21 @@
   "PLMU": {
     "name": "PALAMUR UNIVERSITY, MAHABUBNAGAR",
     "address": "PALAMUR UNIVERSITY, MAHABUBNAGAR, Mahabubnagar, Telangana, India",
-    "rating": 4.6,
+    "rating": 4.1,
     "lat": 16.69751855470913,
     "lng": 77.95666068386586
   },
   "PALV": {
     "name": "PALLAVI ENGINEERING COLLEGE (AUTONOMOUS), KUNTLOOR",
     "address": "PALLAVI ENGINEERING COLLEGE , KUNTLOOR, Kuntloor, Abdullapurmet mandal, Ranga Reddy, Telangana, 501505, India",
-    "rating": 4.5,
+    "rating": 3.7,
     "lat": 17.337469645479977,
     "lng": 78.63147886455471
   },
   "PCOP": {
     "name": "PRINCETON COLLEGE OF PHARMACY, GHATKESAR",
     "address": "PRINCETON COLLEGE OF PHARMACY, GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.4,
+    "rating": 3,
     "lat": 17.45409236669773,
     "lng": 78.68364022694607
   },
@@ -891,7 +891,7 @@
   "RITW": {
     "name": "RISHI MS INST OF ENGG AND TECH FOR WOMEN, KUKATPALLY",
     "address": "RISHI MS Institute OF Engineering AND TECH FOR WOMEN, KUKATPALLY, Kukatpally, Ward 122 Vivekananda Nagar Colony, Hyderabad, Kukatpally mandal, Medchal–Malkajgiri, Telangana, 500072, India",
-    "rating": 4.4,
+    "rating": 4.1,
     "lat": 17.496235906225607,
     "lng": 78.40266376093236
   },
@@ -912,21 +912,21 @@
   "SANA": {
     "name": "SANA ENGINEERING COLLGE, KODAD",
     "address": "Sana Engineering College, Old NH9, Kodada, Kodad mandal, Suryapet, Telangana, 508206, India",
-    "rating": 3.9,
+    "rating": 3.4,
     "lat": 16.9921768,
     "lng": 79.9871062
   },
   "SNTI": {
     "name": "SCIENT INSTITUTE OF TECHNOLOGY AUTONOMOUS, IBRAHIMPATAN",
     "address": "SCIENT INSTITUTE OF Technology , IBRAHIMPATAN, Telangana, India",
-    "rating": 4.6,
+    "rating": 3.8,
     "lat": 17.369065197399678,
     "lng": 78.51924042648193
   },
   "SCET": {
     "name": "SHADAN COLL OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), PEERANCHERU",
     "address": "Shadan College of Engineering and Technology, Chavella road, Shirdi Saibaba Nagar, Himayath Sagar, Gandipet mandal, Ranga Reddy, Telangana, 500086, India",
-    "rating": 4.1,
+    "rating": 3.5,
     "lat": 17.3537297,
     "lng": 78.3747035
   },
@@ -947,7 +947,7 @@
   "SISG": {
     "name": "SIDDHARTHA INSTT OF TECHNOLOGY AND SCIENCES (AUTONOMOUS), GHATKESAR",
     "address": "SIDDHARTHA INSTT OF Technology AND SCIENCES , GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 3.8,
+    "rating": 3.7,
     "lat": 17.442138790025034,
     "lng": 78.68153529728116
   },
@@ -961,35 +961,35 @@
   "SPHN": {
     "name": "SPHOORTHY ENGINEERING COLLEGE (AUTONOMOUS), NADERGUL",
     "address": "SPHOORTHY ENGINEERING COLLEGE , NADERGUL, Nadergul, Balapur mandal, Ranga Reddy, Telangana, 500021, India",
-    "rating": 4.1,
+    "rating": 4,
     "lat": 17.27967521351481,
     "lng": 78.54737313330591
   },
   "SRHP": {
     "name": "SR UNIVERSITY ( FORMERLY S R ENGINEERING COLLEGE) , HASANPARTHY",
     "address": "SR UNIVERSITY ( FORMERLY S R ENGINEERING COLLEGE) , HASANPARTHY, Hasanparthy mandal, Hanumakonda, Telangana, India",
-    "rating": 4.5,
+    "rating": 3.9,
     "lat": 18.073039054729698,
     "lng": 79.51674564666453
   },
   "CHTN": {
     "name": "SREE CHAITANYA COLLEGE OF ENGINEERING, KARIMNAGAR",
     "address": "Sree Chaitanya College of Engineering, SH1, Thimmapur, Thimmapur mandal, Karimnagar, Telangana, 505481, India",
-    "rating": 3.9,
+    "rating": 4,
     "lat": 18.3665122,
     "lng": 79.1559133
   },
   "CHTS": {
     "name": "SREE CHAITANYA INST OF TECHNOLOGY SCIENCES, KARIMNAGAR",
     "address": "SREE CHAITANYA Institute OF Technology SCIENCES, KARIMNAGAR, Karimnagar, Karimnagar mandal, Karimnagar, Telangana, 505001, India",
-    "rating": 4.4,
+    "rating": 4.1,
     "lat": 18.42793164453424,
     "lng": 79.12375959102933
   },
   "SDGI": {
     "name": "SREE DATTHA GRP OF INSTNS (AUTONOMOUS), IBRAHIMPATAN",
     "address": "SREE DATTHA Group OF Institutions , IBRAHIMPATAN, Telangana, India",
-    "rating": 4.3,
+    "rating": 4.1,
     "lat": 17.331134753137064,
     "lng": 78.4406972561414
   },
@@ -1010,42 +1010,42 @@
   "SCIT": {
     "name": "SRI CHAITANYA INSTITUTE OF TECHNOLOGY AND RESEARCH AUTONOMOUS, KHAMMAM",
     "address": "SRI CHAITANYA INSTITUTE OF Technology AND RESEARCH , KHAMMAM, Khammam, Khammam Urban mandal, Khammam, Telangana, 507003, India",
-    "rating": 4.5,
+    "rating": 3.4,
     "lat": 17.25063690094209,
     "lng": 80.14340607342811
   },
   "CHET": {
     "name": "SRI CHAITANYA TECHNICAL CAMPUS, IBRAHIMPATAN",
     "address": "SRI CHAITANYA TECHNICAL CAMPUS, IBRAHIMPATAN, Telangana, India",
-    "rating": 4,
+    "rating": 3.3,
     "lat": 17.4158826536245,
     "lng": 78.53604496216089
   },
   "INDU": {
     "name": "SRI INDU COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), IBRAHIMPATAN",
     "address": "SRI INDU COLLEGE OF Engineering AND Technology , IBRAHIMPATAN, Telangana, India",
-    "rating": 4.2,
+    "rating": 3.8,
     "lat": 17.397015508767872,
     "lng": 78.54888030452665
   },
   "INDI": {
     "name": "SRI INDU INSTITUTE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), IBRAHIMPATAN",
     "address": "SRI INDU INSTITUTE OF ENGINEERING AND Technology , IBRAHIMPATAN, Telangana, India",
-    "rating": 4,
+    "rating": 3.8,
     "lat": 17.426683847764743,
     "lng": 78.41443353151915
   },
   "VCOP": {
     "name": "SRI VENKATESWARA COLLEGE OF PHARMACY, MADHAPUR",
     "address": "SRI VENKATESWARA COLLEGE OF PHARMACY, MADHAPUR, Madhapur, Ward 104 Kondapur, Hyderabad, Serilingampalle mandal, Ranga Reddy, Telangana, 800081, India",
-    "rating": 4,
+    "rating": 3.5,
     "lat": 17.45015614008045,
     "lng": 78.39288614680203
   },
   "SVES": {
     "name": "SRI VENKATESWARA ENGINEERING COLLEGE, SURYAPETA",
     "address": "Sri Venkateswara Engineering College, NH-65, Amaravadi Nagar, Thallagadda, Suryapet, Telangana 508213, Old NH9, Sri Venkateshwara Colony, Suryapet, Suryapet mandal, Suryapet, Telangana, 508213, India",
-    "rating": 3.9,
+    "rating": 3.5,
     "lat": 17.1422232,
     "lng": 79.6159717
   },
@@ -1059,7 +1059,7 @@
   "SDEW": {
     "name": "SRIDEVI WOMENS ENGINEERING COLLEGE AUTONOMOUS, GANDIPET",
     "address": "SRIDEVI WOMENS ENGINEERING COLLEGE , GANDIPET, Osman Sagar, Khanapur, Gandipet mandal, Ranga Reddy, Telangana, India",
-    "rating": 4.5,
+    "rating": 3.9,
     "lat": 17.378878998535694,
     "lng": 78.30819868137165
   },
@@ -1073,42 +1073,42 @@
   "MRTN": {
     "name": "ST MARTINS ENGINEERING COLLEGE (AUTONOMOUS), DHULAPALLY",
     "address": "St Martins Engineering College, Doolapally Road, Doolapally, Dundigal mandal, Medchal–Malkajgiri, Telangana, 500014, India",
-    "rating": 3.9,
+    "rating": 3.8,
     "lat": 17.5422368,
     "lng": 78.4749218
   },
   "SMCD": {
     "name": "ST MARYS ENGINEERING COLLEGE, DESHMUKHI",
     "address": "ST MARYS ENGINEERING COLLEGE, DESHMUKHI, Deshmukhi, B. Pochampally mandal, Yadadri Bhuvanagiri, Telangana, India",
-    "rating": 4.3,
+    "rating": 3.5,
     "lat": 17.330158382149587,
     "lng": 78.73466257705016
   },
   "SMED": {
     "name": "ST MARYS GROUP OF INSTITUTIONS AUTONOMOUS, DESHMUKHI",
     "address": "ST MARYS GROUP OF INSTITUTIONS , DESHMUKHI, Deshmukhi, B. Pochampally mandal, Yadadri Bhuvanagiri, Telangana, India",
-    "rating": 4.5,
+    "rating": 3.5,
     "lat": 17.33284198381444,
     "lng": 78.72317601220614
   },
   "SMIC": {
     "name": "ST MARYS INTEGRATED CAMPUS, DESHMUKHI",
     "address": "ST MARYS INTEGRATED CAMPUS, DESHMUKHI, Deshmukhi, B. Pochampally mandal, Yadadri Bhuvanagiri, Telangana, India",
-    "rating": 3.8,
+    "rating": 3.6,
     "lat": 17.324489021784473,
     "lng": 78.73441744314728
   },
   "SPEC": {
     "name": "ST PETERS ENGINEERING COLLEGE (AUTONOMOUS), MEDCHAL",
     "address": "ST PETERS ENGINEERING COLLEGE , MEDCHAL, Medchal, Medchal mandal, Medchal–Malkajgiri, Telangana, 501400, India",
-    "rating": 4.7,
+    "rating": 3.8,
     "lat": 17.62446514911473,
     "lng": 78.47924672841437
   },
   "STLW": {
     "name": "STANLEY COLLEGE OF ENGG AND TECHNOLOGY FOR WOMEN (AUTONOMOUS), ABIDS",
     "address": "STANLEY COLLEGE OF Engineering AND Technology FOR WOMEN , ABIDS, Abids, Ward 77 Jambagh, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Nampally mandal, Hyderabad, Telangana, 500095, India",
-    "rating": 3.8,
+    "rating": 4,
     "lat": 17.38291674195049,
     "lng": 78.4689670494942
   },
@@ -1122,7 +1122,7 @@
   "SRIW": {
     "name": "SUMATHI REDDY INST OF TECHNOLOGY FOR WOMEN, HASANPARTHY",
     "address": "SUMATHI REDDY Institute OF Technology FOR WOMEN, HASANPARTHY, Hasanparthy mandal, Hanumakonda, Telangana, India",
-    "rating": 4.3,
+    "rating": 3.9,
     "lat": 18.068519558450753,
     "lng": 79.5268155415015
   },
@@ -1143,14 +1143,14 @@
   "SVIT": {
     "name": "SWAMI VIVEKANANDA INST OF TECHNOLOGY (AUTONOMOUS), SECUNDERABAD",
     "address": "swami Vivekananda institute of technology, Sarojini Devi Road, Boiguda, Ward 150 Monda Market, Greater Hyderabad Municipal Corporation North Zone, Hyderabad, Secunderabad mandal, Hyderabad, Telangana, 500003, India",
-    "rating": 4.4,
+    "rating": 3.5,
     "lat": 17.4397363,
     "lng": 78.4962012
   },
   "SBIT": {
     "name": "SWARNA BHARATHI INSTITUTE OF SCI AND TECHNOLOGY AUTONOMOUS, KHAMMAM",
     "address": "SWARNA BHARATHI INSTITUTE OF Science AND Technology , KHAMMAM, Khammam, Khammam Urban mandal, Khammam, Telangana, 507003, India",
-    "rating": 4.4,
+    "rating": 3.4,
     "lat": 17.243051654095616,
     "lng": 80.14755429641535
   },
@@ -1164,35 +1164,35 @@
   "TPCE": {
     "name": "TALLA PADMAVATHI COLL OF ENGINEERING (AUTONOMOUS), KAZIPET",
     "address": "talla padmavathi college of engineering, Kazipet - Somidi Road, Kazipet, Khaazipet mandal, Hanumakonda, Telangana, 506003, India",
-    "rating": 3.8,
+    "rating": 3.5,
     "lat": 17.9922354,
     "lng": 79.492319
   },
   "TALP": {
     "name": "TALLA PADMAVATHI COLLEGE OF PHARMACY, WARANGAL",
     "address": "TALLA PADMAVATHI COLLEGE OF PHARMACY, WARANGAL, Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
-    "rating": 4.3,
+    "rating": 3.5,
     "lat": 17.974109008784357,
     "lng": 79.60647084277133
   },
   "TKEM": {
     "name": "TEEGALA KRISHNA REDDY ENGINEERING COLLEGE (AUTONOMOUS), MIRPET",
     "address": "TEEGALA KRISHNA REDDY ENGINEERING COLLEGE , MIRPET, Mirpet, Almasguda, Balapur mandal, Ranga Reddy, Telangana, 500097, India",
-    "rating": 4.3,
+    "rating": 4.1,
     "lat": 17.326588632346166,
     "lng": 78.53236804829062
   },
   "TCTK": {
     "name": "TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY, KARIMNAGAR",
     "address": "TRINITY COLLEGE OF ENGINEERING AND Technology, KARIMNAGAR, Karimnagar, Karimnagar mandal, Karimnagar, Telangana, 505001, India",
-    "rating": 3.8,
+    "rating": 3.9,
     "lat": 18.428658557897094,
     "lng": 79.13042795560239
   },
   "TCEK": {
     "name": "TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY, PEDDAPALLY",
     "address": "TRINITY COLLEGE OF ENGINEERING AND Technology, PEDDAPALLY, PEDDAPALLY, NH167, Jadcherla, Jadcherla mandal, Mahabubnagar, Telangana, 509340, India",
-    "rating": 4.3,
+    "rating": 3.9,
     "lat": 16.802664022729267,
     "lng": 78.10019787177727
   },
@@ -1220,7 +1220,7 @@
   "VAGE": {
     "name": "VAAGDEVI COLLEGE OF ENGINEERING (AUTONOMOUS), WARANGAL",
     "address": "VAAGDEVI COLLEGE OF ENGINEERING , WARANGAL, Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
-    "rating": 3.9,
+    "rating": 4,
     "lat": 17.98979750466971,
     "lng": 79.59696844283077
   },
@@ -1241,42 +1241,42 @@
   "VMEG": {
     "name": "VARDHAMAN COLLEGE OF ENGINEERING, SHAMSHABAD",
     "address": "vardhaman college of engineering, Nagarguda-Shamshabad Road, Kacharam, Shamshabad mandal, Ranga Reddy, Telangana, 501218, India",
-    "rating": 4.1,
+    "rating": 4,
     "lat": 17.2545527,
     "lng": 78.30704
   },
   "VASV": {
     "name": "VASAVI COLLEGE OF ENGINEERING, HYDERABAD",
     "address": "Vasavi College of Engineering, Vasavi College of Engineering Parking, Ward 66 Langar Houz, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Gandipet mandal, Ranga Reddy, Telangana, 500031, India",
-    "rating": 3.8,
+    "rating": 3.9,
     "lat": 17.3806215,
     "lng": 78.3830127
   },
   "VISA": {
     "name": "VATHSALYA INSTITUTE OF SCI AND TECHNOLOGY, BHONGIR",
     "address": "VATHSALYA INSTITUTE OF Science AND Technology, BHONGIR, Bhongir, Bhongiri mandal, Yadadri Bhuvanagiri, Telangana, 508100, India",
-    "rating": 4.5,
+    "rating": 1.6,
     "lat": 17.51747022529122,
     "lng": 78.89389503049173
   },
   "VJIT": {
     "name": "VIDYAJYOTHI INSTITUTE OF TECHNOLOGY AUTONOMOUS, MOINABAD",
     "address": "VIDYAJYOTHI INSTITUTE OF Technology , MOINABAD, Moinabad, Moinabad mandal, Ranga Reddy, Telangana, 501504, India",
-    "rating": 4.5,
+    "rating": 3.5,
     "lat": 17.319197524703082,
     "lng": 78.27742073023447
   },
   "VBIT": {
     "name": "VIGNAN BHARATI INSTITUTE OF TECHNOLOGY (AUTONOMOUS), GHATKESAR",
     "address": "VIGNAN BHARATI INSTITUTE OF Technology , GHATKESAR, Ghatkesar mandal, Medchal–Malkajgiri, Telangana, India",
-    "rating": 4.7,
+    "rating": 4.1,
     "lat": 17.460426664312134,
     "lng": 78.67789458257529
   },
   "VGNT": {
     "name": "VIGNAN INSTITUTE OF TECHNOLOGY AND SCI (AUTONOMOUS), DESHMUKHI",
     "address": "VIGNAN INSTITUTE OF Technology AND Science , DESHMUKHI, Deshmukhi, B. Pochampally mandal, Yadadri Bhuvanagiri, Telangana, India",
-    "rating": 4.7,
+    "rating": 4.1,
     "lat": 17.32380500240408,
     "lng": 78.73116621703898
   },
@@ -1290,21 +1290,21 @@
   "VCPN": {
     "name": "VIJAY COLL OF PHARMACY, NIZAMABAD",
     "address": "VIJAY College OF PHARMACY, NIZAMABAD, Nizamabad, Nizamabad South mandal, Nizamabad, Telangana, 503001, India",
-    "rating": 3.9,
+    "rating": 3.4,
     "lat": 18.682368543277,
     "lng": 78.0903270240916
   },
   "VREC": {
     "name": "VIJAY RURAL ENGINEERING COLLEGE, NIZAMABAD",
     "address": "vijay rural engineering college, NH63, Makloor mandal, Nizamabad, Telangana, 503002, India",
-    "rating": 4.2,
+    "rating": 3.4,
     "lat": 18.7254456,
     "lng": 78.1483952
   },
   "VJYA": {
     "name": "VIJAYA ENGINEERING COLLEGE, KHAMMAM",
     "address": "Vijaya Engineering College, NH365BB, Tanikella, Konijerla mandal, Khammam, Telangana, 507305, India",
-    "rating": 4.2,
+    "rating": 4.1,
     "lat": 17.2337704,
     "lng": 80.2393154
   },
@@ -1332,7 +1332,7 @@
   "WITS": {
     "name": "WARANGAL INST OF TECHNOLOGY SCIENCE, WARANGAL",
     "address": "WARANGAL Institute OF Technology SCIENCE, WARANGAL, Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
-    "rating": 4.5,
+    "rating": 3.8,
     "lat": 17.97614496430991,
     "lng": 79.60365853344334
   }
