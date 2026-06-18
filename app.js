@@ -115,6 +115,8 @@ async function loadDatabase() {
             const detailsResponse = await fetch('colleges_data.json');
             if (detailsResponse.ok) {
                 collegeDetails = await detailsResponse.json();
+                // Expose globally for chatbot context
+                window.collegeDetails = collegeDetails;
                 console.log(`Loaded details for ${Object.keys(collegeDetails).length} colleges.`);
             }
         } catch (e) {
@@ -126,6 +128,8 @@ async function loadDatabase() {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         allotments = await response.json();
+        // Expose globally for chatbot context
+        window.allotments = allotments;
         console.log(`Loaded ${allotments.length} records.`);
         
         // 1. Build list of unique colleges and branches
@@ -165,6 +169,7 @@ async function loadDatabase() {
         `;
     }
 }
+
 
 // Populate Branch Dropdown
 function populateBranchFilterDropdown(uniqueBranches) {
