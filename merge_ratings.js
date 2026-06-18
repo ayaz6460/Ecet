@@ -106,6 +106,8 @@ for (const [code, info] of Object.entries(colleges)) {
             score: score.toFixed(2)
         });
     } else {
+        // Remove old (manually-set) rating — set to null so UI shows "N/A"
+        updatedColleges[code] = { ...info, rating: null };
         missing.push({ code, name: info.name });
     }
 }
